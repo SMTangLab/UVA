@@ -1,12 +1,6 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 <style type="text/css">
-.page-header {
-  text-align: center;
-  background-image: url('./man/figures/dna.jpeg');
-}
-</style>
-<style type="text/css">
 p {
   text-align: justify;
   text-justify: inter-word;
