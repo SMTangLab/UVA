@@ -5,9 +5,9 @@
 <div class="profile" style="margin-bottom: 50px;">
 
 <img src="man/figures/shangming_tang.jpeg" align="left" style="padding-right: 15px;"/>
-<h2>
+<p style="font-size:30px;">
 Shangming Tang, PhD
-</h2>
+</p>
 <p>
 Assistant Professor of Biochemistry and Molecular Genetics, Biochemistry
 and Molecular Genetics
