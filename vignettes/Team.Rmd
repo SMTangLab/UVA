@@ -1,0 +1,18 @@
+---
+title: "Team"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Team}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  message = FALSE,
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# Research

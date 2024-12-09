@@ -1,0 +1,40 @@
+url: https://github.com/SMTangLab/UVA/
+
+development:
+  mode: auto
+
+template:
+  bootstrap: 5
+  light-switch: true
+
+authors:
+  Shangming Tang:
+    href: https://github.com/SMTangLab
+  Reina Chau:
+    href: https://github.com/RC-88
+
+news:
+  one_page: false
+
+navbar:
+  title: "UVA"
+  left:
+    - icon: fa-home
+      href: index.html
+    - text: "Research"
+      href: articles/Research.html
+    - text: "Team"
+      href: articles/Team.html
+    - text: "Publications"
+      href: articles/Publications.html
+    - text: "Careers"
+      href: reference/Careers.html
+    - text: "Contact"
+      href: reference/Contact.html
+  right:
+    - text: "Recent News"
+      href: news/index.html
+    - icon: fa-github
+      href: https://github.com/SMTangLab/UVA/
+
+

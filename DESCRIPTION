@@ -1,0 +1,13 @@
+Package: TangLab@UVA
+Type: Package
+Title: Tang Lab @ UVA
+Version: 1.0.0
+Authors@R: 
+    person("Shangming", "Tang", "gvu7pk@virginia.edu", role = c("aut", "cre"))
+Description: Background of Tang Lab and Research Interests
+RoxygenNote: 7.3.2
+License: GPL-3 + file LICENSE
+URL: https://github.com/SMTangLab/UVA/
+Encoding: UTF-8
+VignetteBuilder: knitr
+BugReports: https://github.com/SMTangLab/UVA/issues

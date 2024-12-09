@@ -1,46 +1,51 @@
 
-<!-- README.md is generated from README.Rmd. Please edit that file -->
 <style type="text/css">
+
 .page-header {
+  height: 300px;
   text-align: center;
-  background-image: url('./man/figures/dna.jpeg');
+  vertical-align: center;
+  padding: 100px;
+  background: url('../man/figures/dna.jpeg') no-repeat;
+  background-size: 100%;
 }
-</style>
-<style type="text/css">
+
+.lab-banner {
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  height: 100px;
+}
+
+.lab-title {
+  text-align: center;
+  color: white;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.lab-description {
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+}
+
 p {
+  font-size: 16px;
   text-align: justify;
   text-justify: inter-word;
 }
+
 </style>
 
-# Tang Lab @ UVA
 
-<div class="profile" style="margin-bottom: 50px;">
-
-<img src="man/figures/shangming_tang.jpeg" align="left" style="padding-right: 15px;"/>
-<h2>
-Shangming Tang, PhD
-</h2>
-<p>
-Assistant Professor of Biochemistry and Molecular Genetics, Biochemistry
-and Molecular Genetics
-</p>
-<p>
-<i class="fa fa-envelope"></i>Website:
-<a href="https://github.com/SMTangLab/UVA/">https://github.com/SMTangLab/UVA/</a>
-</p>
-<p>
-<i class="fa fa-envelope"></i>Email:
-<a href="mailto:gvu7pk@virginia.edu">gvu7pk@virginia.edu</a>
-</p>
-
+<div class="page-header">
+  <div class="lab-banner">
+  <span class="lab-title"><img src="../pkgdown/favicon/favicon-32x32.png" width="35" height="35" style="padding-bottom: 5px; margin-right: 3px;"/>Tang Lab</span>
+  <p class="lab-description">Understanding the mechanisms of complex genome rearrangements</p>
+  </div>
 </div>
-
-# Research Interests
-
-Complex Genome Rearrangements
-
-# Research Description
 
 The Tang laboratory applies a wide range of approaches such as live-cell
 imaging, single-cell genomics, and biochemistry to study the mechanisms
