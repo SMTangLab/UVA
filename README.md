@@ -1,12 +1,5 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
-<style type="text/css">
-p {
-  text-align: justify;
-  text-justify: inter-word;
-}
-</style>
-
 # Tang Lab @ UVA
 
 <div class="profile" style="margin-bottom: 50px;">
